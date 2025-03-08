@@ -11,17 +11,17 @@
 <section class="connect">
   <h2>🌐 Connect with me:</h2>
   <div class="social-links">
-    <a href="https://instagram.com/sakshithshetty69" target="_blank" aria-label="Instagram"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-    <a href="https://x.com/@SHADOW__269" target="_blank" aria-label="Twitter"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
-    <a href="https://discord.com/users/1051180323058237450" target="_blank" aria-label="Discord"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
-    <a href="https://github.com/SHADOW2669" target="_blank" aria-label="Discord"><img src="https://skillicons.dev/icons?i=github" alt="Discord" /></a>
+    <a href="https://instagram.com/Pratyaksh" target="_blank" aria-label="Instagram"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+    <a href="https://x.com/@Pratyaksh" target="_blank" aria-label="Twitter"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+    <a href="https://discord.com/users/@me" target="_blank" aria-label="Discord"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+    <a href="https://github.com/pratyaksh585" target="_blank" aria-label="Discord"><img src="https://skillicons.dev/icons?i=github" alt="Discord" /></a>
   </div>
 </section>
 
 <section class="skills">
   <h2>⚒️ Languages-Frameworks-Tools:</h2>
   <div class="skill-icons">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,cs,dotnet,git,java,mysql,python,r,github,vscode,pycharm,linux&perline=8" alt="html,css,javascript,c,cpp,cs,dotnet,git,java,mysql,python,r,github,vscode,pycharm,linux"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,cs,dotnet,java,mysql,python,r,github,vscode,pycharm,&perline=7" alt="html,css,javascript,c,cpp,cs,dotnet,git,java,mysql,python,r,github,vscode,pycharm"/>
   </div>
 </section>
 
